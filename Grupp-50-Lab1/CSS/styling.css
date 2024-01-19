@@ -1,0 +1,218 @@
+ 
+
+/* färgtema har hittat på htmlcolorcode.com - https://coolors.co/palette/03045e-0077b6-00b4d8-90e0ef-caf0f8 */
+/**/ 
+
+* {
+    max-width: 1920px; 
+    /*border-collapse: collapse;*/
+ }
+ 
+ body { 
+    
+     
+     margin-right: 10px;
+     background-color: lightblue; 
+     font-family: Arial, Helvetica, sans-serif;
+     
+ 
+ }
+ 
+ header {
+  
+ }
+  
+ h1 { 
+     
+     
+     display: flex;
+ }
+ 
+ .logo { 
+     text-align: left;
+  
+ }
+ 
+ #boats { 
+     text-align: center;
+     width: 70%;
+     padding-top: 50px;
+     font-size: larger;
+     font-family: Comic Sans MS; 
+     color: navy; 
+     border-left: 0px;
+ 
+ }
+ 
+ 
+ h2 {
+     background-color: #0077b6; 
+     width: 100%;
+     text-align: center;
+     padding-right: 10px;
+     padding-top: 4px;
+     border-radius: 11px;
+     
+ 
+ }
+ 
+ 
+ 
+ #Val {
+     padding: 7px;
+     border-radius:5px;
+     background-color: #f1f1f1;
+     text-align: center;
+     border-width: px;
+     margin-top: 5px;
+     margin-bottom: 8px;
+     margin-left: 5px;
+     margin-right: 5px;
+     width: 100%
+    
+ }
+ 
+ .flex-container {
+     display: flex;
+ }
+ 
+ 
+ iframe {
+     width: 885px;
+     height: 300px;
+     margin-top: 10px;
+     margin-bottom: 30px;
+     margin-right: 80px;
+     padding: 2px;
+ }
+ 
+ 
+ 
+ .reklam1 {
+ position: relative;
+ text-align: right;
+ margin-top: 10px;
+ border-width: 5px;
+ padding: 5px;
+ 
+ }
+ 
+ #reklamtext {
+     transform: translate(-50%, -50%);
+     border: groove;
+     color: #0077b6;
+     font-family: Arial;
+     font-weight: bolder;
+     font-size: larger;
+     border: 0px;
+     position:absolute;
+     bottom: 200px;
+     left: 130px;
+     top: 50px
+ 
+ }
+ 
+ p1 {
+     display: flex;
+     margin-bottom: 10px;
+ }
+ 
+ p2 {
+     display: flex;
+     margin-bottom: 10px;
+ }
+ 
+ p3{
+     display: flex;
+ }
+ 
+ .lista1{
+     text-align: left;
+     background-color:antiquewhite;
+     padding-top: 10px;
+     padding-left: 10px;
+     padding-bottom: 10px;
+     border-color: black;
+     border-style: groove;
+     border-right: 0px;
+     margin-right: 0px;
+     position: relative;
+     
+   
+ 
+ }
+ #text1{
+     
+     background-color:antiquewhite;
+     border-color: black;
+     border-style: groove;
+     border-left: 0px;
+     width:50%;
+     padding-top: 20px;
+     padding-left: 20px
+     
+     
+ 
+ }
+ 
+ #maplink {
+  text-align: left;
+ 
+ }
+ 
+ 
+ 
+ 
+ .lista2 {
+ 
+     text-align: left;
+     background-color:antiquewhite;
+     padding-top: 10px;
+     padding-left: 10px;
+     padding-bottom: 10px;
+     border-color: black;
+     border-style: groove;
+     border-right: 0px;
+     margin-right: 0px;
+ }
+ #text2{
+     background-color:antiquewhite;
+     border-color: black;
+     border-style: groove;
+     border-left: 0px;
+     width:50%;
+     padding-top: 20px;
+     padding-left: 20px
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ .lista3 {
+     
+     
+     background-color:antiquewhite;
+     padding-top: 10px;
+     padding-left: 10px;
+     padding-bottom: 10px;
+     border-color: black;
+     border-style: groove;
+     border-right: 0px;
+     margin-right: 0px;
+ }
+ 
+ #text3 {
+     background-color:antiquewhite;
+     border-color: black;
+     border-style: groove;
+     border-left: 0px;
+     width:50%;
+     padding-top: 20px;
+     padding-left: 20px
+ 
+ }
+ 
+ 
+ 
